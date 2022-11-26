@@ -1,0 +1,20 @@
+{
+  "name": "k6performancetests",
+  "version": "1.0.0",
+  "description": "Alto - K6 Performance Tests",
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "lint": "npx eslint --color .",
+    "lint:fix": "npx eslint --fix .",
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}
