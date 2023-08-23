@@ -16,5 +16,8 @@
   "license": "ISC",
   "devDependencies": {
     "husky": "^8.0.0"
+  },
+  "dependencies": {
+    "eslint-plugin-k6-linting-rules": "^0.0.0"
   }
 }
