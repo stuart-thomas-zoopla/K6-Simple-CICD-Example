@@ -16,5 +16,9 @@ module.exports = {
         "__ITER": "readonly"
     },
     "rules": {
-    }
+        "k6-linting-rules/k6": 2
+    },
+    "plugins": [
+        "k6-linting-rules"
+    ]
 }
